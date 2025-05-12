@@ -2,35 +2,40 @@
 
 # 📄 Real-Time Collaborative Document Editor
 
-**Company Name**: CODETECH IT SOLUTIONS  
+**Company Name**: CODETECH IT SOLUTIONS
+
 **Intern Name**: KARUNYARAJ
+
 **Intern ID**: CT4MWZ95  
+
 **Domain**: MERN STACK WEB DEVELOPMENT  
+
 **Duration**: 15 Weeks  
+
 **Mentor**: NEELA SANTHOSH  
 
 ---
 
-## 🚀 Project Description
+## Description
 
 A **MERN stack** web application that allows multiple users to collaborate on documents in real-time. The platform includes secure user authentication, live synchronization using WebSockets, document versioning, and a user-friendly rich text editor.
 
 ---
 
-## ✅ Features
+## Features
 
-- ✅ Real-time collaborative text editing  
-- ✅ User authentication (Register/Login)  
-- ✅ Document creation and management  
-- ✅ Live cursor position sharing  
-- ✅ Revision history tracking  
-- ✅ Shareable document links  
-- ✅ Rich text formatting options  
-- ✅ Responsive design for all devices  
+- Real-time collaborative text editing  
+- User authentication (Register/Login)  
+- Document creation and management  
+- Live cursor position sharing  
+- Revision history tracking  
+- Shareable document links  
+- Rich text formatting options  
+- Responsive design for all devices  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 collab-tool/
@@ -54,7 +59,7 @@ collab-tool/
 
 ---
 
-## 📊 How It Works
+## How It Works
 
 1. **User Authentication** → Secure signup/login using JWT  
 2. **Document Creation** → Users can start new collaborative documents  
@@ -65,7 +70,7 @@ collab-tool/
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - **Frontend**: React.js, Socket.io-client, Quill Rich Text Editor  
 - **Backend**: Node.js, Express.js, Socket.io  
@@ -75,17 +80,10 @@ collab-tool/
 
 ---
 
-## 🎯 Future Enhancements
-
-- 💬 Add video/audio chat integration  
-- 💡 Implement document commenting system  
-- 📝 Add Markdown support  
-- 📱 Develop mobile applications  
-- 📎 Integrate file attachments  
-- 📄 Implement document templates
-
   ## Output
 
 ![Image](https://github.com/user-attachments/assets/cc906140-0dd2-4103-83a0-c6c3a731964d)
+
 ![Image](https://github.com/user-attachments/assets/02e7067a-c38f-4dbb-85ff-9811273ccd2f)
+
 ![Image](https://github.com/user-attachments/assets/5a82c44a-6e67-47e7-95d0-680f95a1eea9)
