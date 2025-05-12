@@ -35,30 +35,6 @@ A **MERN stack** web application that allows multiple users to collaborate on do
 
 ---
 
-## Project Structure
-
-```
-collab-tool/
-├── client/                  # React Frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/      # Reusable components
-│   │   ├── pages/           # Route pages
-│   │   ├── context/         # Auth context
-│   │   └── App.js           # Main component
-│   └── package.json
-├── server/                  # Node.js Backend
-│   ├── models/              # MongoDB schemas
-│   ├── routes/              # API routes
-│   ├── socket/              # Socket.io handlers
-│   ├── server.js            # Express server
-│   └── package.json
-├── .gitignore
-└── README.md
-```
-
----
-
 ## How It Works
 
 1. **User Authentication** → Secure signup/login using JWT  
